@@ -1,0 +1,15 @@
+Enter file name to use for left set of words: test/data/bad.txt
+Invalid file name given, try again
+Enter file name to use for left set of words: test/data/words-file-1.txt
+Enter file name to use for right set of words: test/data/words-file-2.txt
+Enter comparison (BOTH, EITHER, LEFT, RIGHT) or QUIT: quit
+Invalid comparison asked for, try again
+Enter comparison (BOTH, EITHER, LEFT, RIGHT) or QUIT: BOTH
+['banana', 'time']
+Enter comparison (BOTH, EITHER, LEFT, RIGHT) or QUIT: EITHER
+['a', 'aid', 'all', 'an', 'arrow', 'banana', 'come', 'country', 'flies', 'for', 'fruit', 'good', 'is', 'like', 'men', 'now', 'of', 'the', 'their', 'time', 'to']
+Enter comparison (BOTH, EITHER, LEFT, RIGHT) or QUIT: LEFT
+['aid', 'all', 'come', 'country', 'for', 'good', 'is', 'men', 'now', 'of', 'the', 'their', 'to']
+Enter comparison (BOTH, EITHER, LEFT, RIGHT) or QUIT: RIGHT
+['a', 'an', 'arrow', 'flies', 'fruit', 'like']
+Enter comparison (BOTH, EITHER, LEFT, RIGHT) or QUIT: QUIT

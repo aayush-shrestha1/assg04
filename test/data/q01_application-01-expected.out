@@ -1,0 +1,20 @@
+Enter file name of ranked items to query: bad.txt
+Invalid rank item file name, try again
+Enter file name of ranked items to query: test/data/boy-names.txt
+Loaded 1000 items from <test/data/boy-names.txt>
+Enter begin index (1 to 1000, 0 to exit): -1
+Enter end index (1 to 1000, begin <= end): 1
+Invalid index(s) entered, try again
+Enter begin index (1 to 1000, 0 to exit): 1
+Enter end index (1 to 1000, begin <= end): 1
+[(1, 'Liam')]
+Enter begin index (1 to 1000, 0 to exit): 500
+Enter end index (1 to 1000, begin <= end): 499
+Invalid index(s) entered, try again
+Enter begin index (1 to 1000, 0 to exit): 500
+Enter end index (1 to 1000, begin <= end): 505
+[(500, 'Rocco'), (501, 'Ruben'), (502, 'Ledger'), (503, 'Azariah'), (504, 'Donovan'), (505, 'Moses')]
+Enter begin index (1 to 1000, 0 to exit): 1
+Enter end index (1 to 1000, begin <= end): 10
+[(1, 'Liam'), (2, 'Noah'), (3, 'Oliver'), (4, 'Theodore'), (5, 'James'), (6, 'Henry'), (7, 'Mateo'), (8, 'Elijah'), (9, 'Lucas'), (10, 'William')]
+Enter begin index (1 to 1000, 0 to exit): 0

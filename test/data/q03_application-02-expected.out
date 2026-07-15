@@ -1,0 +1,202 @@
+Enter database filename to use, or NEW to create new database: test/data/contacts.pkl
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 1
+Enter name to search for: Walter White
+Walter White: heisenberg@crystalblue.org
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 6
+Invalid action, try again
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 2
+Enter contact name: Saul Goodman
+Enter contact email: sgoodman@goodmanassociates.org
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 2
+Enter contact name: Hank Schrader
+Enter contact email: detschrader@dea.gov
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+Saul Goodman              : sgoodman@goodmanassociates.org
+Hank Schrader             : detschrader@dea.gov      
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 2
+Enter contact name: Gus Fring
+Enter contact email: gfring@LosPollosHermanos.com
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 2
+Enter contact name: Mike Ehrmantraut
+Enter contact email: traut@gmail.com
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+Saul Goodman              : sgoodman@goodmanassociates.org
+Hank Schrader             : detschrader@dea.gov      
+Gus Fring                 : gfring@LosPollosHermanos.com
+Mike Ehrmantraut          : traut@gmail.com          
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 3
+Enter contact name: Saul Badman
+Enter contact email: saul@email.com
+Error, contact does not exist
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 3
+Enter contact name: Saul Goodman
+Enter contact email: jmcgill@HamlinHamlinMcGill.com
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+Saul Goodman              : jmcgill@HamlinHamlinMcGill.com
+Hank Schrader             : detschrader@dea.gov      
+Gus Fring                 : gfring@LosPollosHermanos.com
+Mike Ehrmantraut          : traut@gmail.com          
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 4
+Enter contact name: Hank Schrader
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+Saul Goodman              : jmcgill@HamlinHamlinMcGill.com
+Gus Fring                 : gfring@LosPollosHermanos.com
+Mike Ehrmantraut          : traut@gmail.com          
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 4
+Enter contact name: Gus Frang
+Error, contact does not exist
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 4
+Enter contact name: Gus Fring
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: Q
+

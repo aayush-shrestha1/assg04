@@ -1,0 +1,127 @@
+Enter database filename to use, or NEW to create new database: NEW
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 1
+Enter name to search for: Skyler
+Name not found in contacts
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 2
+Enter contact name: Walter White
+Enter contact email: wwhite@jpwynne.albuquerque.edu
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 2
+Enter contact name: Jesse Pinkman
+Enter contact email: CapnCook@hotmail.com
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : wwhite@jpwynne.albuquerque.edu
+Jesse Pinkman             : CapnCook@hotmail.com     
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 3
+Enter contact name: Walter Black
+Enter contact email: heisenberg@gmail.com
+Error, contact does not exist
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 3
+Enter contact name: Walter White
+Enter contact email: heisenberg@crystalblue.org
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+Jesse Pinkman             : CapnCook@hotmail.com     
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 4
+Enter contact name: Jesse Blueman
+Error, contact does not exist
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 4
+Enter contact name: Jesse Pinkman
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: 5
+Name                      : e-mail                   
+-----------------------------------------------------
+Walter White              : heisenberg@crystalblue.org
+
+1. Search the database
+2. Add a new contact
+3. Modify an existing contact
+4. Delete a contact
+5. Display all contacts
+Q. Enter Q to quit
+
+Choose action 1-6, Q: Q
+
+Enter database filename to save: test/data/contacts.pkl
+

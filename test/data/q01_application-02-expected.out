@@ -1,0 +1,23 @@
+Enter file name of ranked items to query: test/data/girl-names.dat
+Invalid rank item file name, try again
+Enter file name of ranked items to query: test/data/girl-names.txt
+Loaded 1000 items from <test/data/girl-names.txt>
+Enter begin index (1 to 1000, 0 to exit): 100
+Enter end index (1 to 1000, begin <= end): 101
+[(100, 'Hailey'), (101, 'Ailany')]
+Enter begin index (1 to 1000, 0 to exit): 100
+Enter end index (1 to 1000, begin <= end): 100
+[(100, 'Hailey')]
+Enter begin index (1 to 1000, 0 to exit): 100
+Enter end index (1 to 1000, begin <= end): 99
+Invalid index(s) entered, try again
+Enter begin index (1 to 1000, 0 to exit): 1
+Enter end index (1 to 1000, begin <= end): 10
+[(1, 'Olivia'), (2, 'Emma'), (3, 'Amelia'), (4, 'Charlotte'), (5, 'Mia'), (6, 'Sophia'), (7, 'Isabella'), (8, 'Evelyn'), (9, 'Ava'), (10, 'Sofia')]
+Enter begin index (1 to 1000, 0 to exit): 995
+Enter end index (1 to 1000, begin <= end): 1000
+[(995, 'Jianna'), (996, 'Maelynn'), (997, 'Avani'), (998, 'Lavender'), (999, 'Karter'), (1000, 'Raina')]
+Enter begin index (1 to 1000, 0 to exit): 995
+Enter end index (1 to 1000, begin <= end): 1001
+Invalid index(s) entered, try again
+Enter begin index (1 to 1000, 0 to exit): 0
